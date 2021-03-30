@@ -11,6 +11,9 @@
     font-size: 64px;
     font-weight: lighter;
 }
+.CTA:hover{
+    text-decoration: underline;
+}
 .tag{
     padding:32px;
     font-size: 20px;
